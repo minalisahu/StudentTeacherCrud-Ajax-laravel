@@ -33374,11 +33374,6 @@ select {
   --tw-backdrop-sepia: sepia(100%);
 }
 
-.required-label:after {
-  content: "*";
-  color: red;
-}
-
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;
